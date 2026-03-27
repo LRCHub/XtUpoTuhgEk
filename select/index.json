@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒモと愛",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-03-27T03:58:29.443631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒモと愛",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_ヒモと愛_ヤングスキニー.txt"
+    }
+  ]
+}
